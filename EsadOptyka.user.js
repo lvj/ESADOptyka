@@ -12,6 +12,21 @@
 
 // ==/UserScript==
 // https://gist.github.com/raw/2625891/waitForKeyElements.js
+/*
+
+QUICK AND DIRTY, VERY DIRTY HACK
+CLEAN UP OPTYKAMYSLIWSKA.PL
+FILTER OPTYKAMYSLIWSKA.PL
+
+
+TODO: 
+REFACTOR REFACTOR REFACTOR
+CLEAN UP.
+
+*/
+
+
+
 var $ = window.jQuery;
 const HTMLCOLOR = [
     "Red", "Magenta",
