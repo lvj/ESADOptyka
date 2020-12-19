@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         OptykaMysliwska Beautyfier
+// @name         EsadOptyka
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  ESAD Sklepikarze!
